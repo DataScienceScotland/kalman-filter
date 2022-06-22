@@ -22,7 +22,7 @@ Simas Kucinskas, and Carlos Rondón-Moreno.
 Arroyo-Marioli F, Bullano F, Kucinskas S, Rondón-Moreno C (2021)
 Tracking R of COVID-19: A new real-time estimation using the Kalman
 filter. PLoS ONE 16(1): e0244474.
-[https://doi.org/10.1371/journal.pone.0244474]()
+<https://doi.org/10.1371/journal.pone.0244474>
 
 ### Other Covid-19 Modelling
 
